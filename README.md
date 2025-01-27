@@ -1,2 +1,1 @@
-# bootcamp-git-practice
-git-practice
+Denis is cool
